@@ -1,0 +1,61 @@
+.container{
+    color: white;
+    padding: 100px 120px;
+     /* background-color: #393053;  */
+  /* text-align: center; */
+}
+
+.row{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-column-gap: 100px;
+    margin-top: 10px;
+    /* align-items: center; */
+    /* justify-content: center; */
+  
+}
+.subscribe_form{
+    padding: 8px 0px;
+    margin-bottom: 10px;
+}
+.subscribe_form .input{
+    padding: 15px;
+    width: 800px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    background-color:#5b498d ;
+    color: #f4f4f4;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.img img{
+    width: 440px;
+}
+
+h1{
+    font-size: 49;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.left p{
+    font-size: 15px;
+    color: #f4f4f4;
+    opacity: 0.8;
+    line-height: 1.7;
+}
+.buttons button{
+    margin: 0px 10px;
+    width: 130px;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+   cursor: pointer;
+    outline: none;
+
+}
+.buttons .buy{
+    background-color: #E9A178;
+    font-weight: bolder;
+    font-size: 17px;
+}

@@ -1,0 +1,128 @@
+{
+    "menus":[
+        {
+            "id": 1,
+            "menu": "Trible A  Watch",
+            "description": "Lorem  Tradional Accident Weight Formal Params Accelaror publishing tests accprding for you muxins  sjhs kjsk",
+            "price": 500.00,
+            "old": 899.99,
+            "image": "watch.png"
+        },
+        {
+            "id": 2,
+            "menu": "VIP T Watch",
+            "description": "Lorem  tradoi dkjd kjd djha Tradional Accident Weight Formal Params Accelaror publishing tests accprding for you muxins  sjhs kjsk",
+            "price": 999.99,
+            "old": 1300.00,
+            "image": "watch.png"
+        },
+        {
+            "id": 3,
+            "menu": "TR Watch",
+            "description": "Lorem  Tradional Accident Weight Formal Params Accelaror publishing tests accprding for you muxins  sjhs kjsk",
+            "price": 100,
+            "old": 179.99,
+            "image": "watch.png"
+        }
+    ],
+    "Collections":[
+        {
+            "id": "C100",
+            "image": "t-1.jpg",
+            "title": "T-shirt Coded",
+            "description":"For Mens And Women Can Dressed",
+            "price": 100,
+            "old": 120
+        },
+        {
+            "id": "C101",
+            "image": "t-2.jpg",
+            "title": "ASL T-shirt",
+            "description":"For Mens And Women Can Dressed",
+            "price": 100,
+            "old": 120
+        },
+        {
+            "id": "C102",
+            "image": "t-3.png",
+            "title": "ASL T-shirt",
+            "description":"For Mens And Women Can Dressed",
+            "price": 100,
+            "old": 120
+        },
+        {
+            "id": "C102",
+            "image": "t-4.png",
+            "title": "ASL T-shirt",
+            "description":"For Mens And Women Can Dressed",
+            "price": 100,
+            "old": 120
+        }
+    ],
+    "Shoes_Collections":[
+        {
+            "id": "SH-1",
+            "image": "sh-2.png",
+            "title": "SHOES FOR MENS",
+            "description":"For Mens And Women Can Dressed",
+            "price": 15,
+            "old": ""
+        },
+        {
+            "id": "SH-1",
+            "image": "sh-5.png",
+            "title": "MODAL BUIT 1-8",
+            "description":"For Mens And Women Can Dressed",
+            "price": 99.99,
+            "old": 110
+        },
+        {
+            "id": "SH-1",
+            "image": "sh-4.png",
+            "title": "BRAVED SUMMER",
+            "description":"For Mens And Women Can Dressed",
+            "price": 70,
+            "old": ""
+        },
+        {
+            "id": "SH-1",
+            "image": "sh-6.png",
+            "title": "MODAL T-6 SHOES",
+            "description":"For Mens And Women Can Dressed",
+            "price": 80,
+            "old": "/"
+        },
+        {
+            "id": "SH-1",
+            "image": "sh-7.png",
+            "title": "MODAL A-8",
+            "description":"For Mens And Women Can Dressed",
+            "price": 30,
+            "old": ""
+        },
+        {
+            "id": "SH-1",
+            "image": "sh-9.png",
+            "title": "GENTELS SHOES",
+            "description":"For Gentel Mans Can Only Dressed",
+            "price": 50.99,
+            "old": 70.80
+        },
+        {
+            "id": "SH-1",
+            "image": "sh-8.png",
+            "title": "FOR MODELS",
+            "description":"For Mens And Women Can Dressed",
+            "price": 100,
+            "old": ""
+        },
+        {
+            "id": "SH-1",
+            "image": "sh-8.png",
+            "title": "FOR MODELS",
+            "description":"For Mens And Women Can Dressed",
+            "price": 100,
+            "old": ""
+        }
+    ]
+}

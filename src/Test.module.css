@@ -1,0 +1,67 @@
+.styleNav{
+    background:#393053;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* position: -webkit-sticky;
+    position: sticky;
+    top: 0; */
+
+}
+.styleNav::-webkit-scrollbar{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.navContainer{
+    background:red
+}
+.container{
+    padding: 10px;
+    
+}
+.brand{
+text-decoration: none;
+color: #f4f4f4;
+font-family: verdana;
+font-weight: bolder;
+font-size: 19px;
+transition: 0.08s ease-in-out;
+}
+.nav_list{
+    
+text-decoration: none;
+color: #f4f4f4;
+font-family: verdana;
+font-weight: bolder;
+}
+.brand:hover{
+color: #E9A178;
+text-decoration: none;
+}
+.active{
+    color: #E9A178;
+}
+.active:hover{
+    color: #E9A178;
+    text-decoration: none;
+}
+.hover_effect:hover{
+    color: #E9A178;
+    text-decoration: none;   
+}
+
+.list_nav li{
+    display: inline-block;
+    list-style: none;
+    color: white;
+    margin: 0px 10px;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+}
+.cart{
+    font-size: 21px;
+    color: #E9A178;
+    cursor: pointer;
+}

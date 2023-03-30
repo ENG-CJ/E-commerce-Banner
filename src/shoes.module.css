@@ -1,0 +1,90 @@
+
+.container{
+    color: white;
+    padding: 90px 120px;
+    background-color: #393053; 
+    /* background-color: blue; */
+  text-align: center;
+}
+.menuTitle{
+    font-weight: 700;
+    color: #E9A178;
+    font-family: sans-serif;
+}
+.row{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+    margin-top: 10px;
+}
+.menu_img{
+    padding: 9px;
+    margin: 7px 0px;
+}
+.menu_img img{
+    width: 60%;
+}
+.menu_title{
+    margin: 6px 0px;
+}
+.menu_title h3{
+    font-weight: bolder;
+    font-size: 23px;
+    color: #2b2b2b;
+    text-transform: uppercase;
+}
+.price{
+    margin-bottom: 10px;
+
+}
+.price .current_price,  .old_price{
+    font-weight: bold;
+    margin: 0px 10px;
+    font-size: 20px;
+}
+.current_price{
+    color: rgb(51, 119, 51);
+}
+.old_price{
+    color:red;
+    text-decoration: line-through;
+}
+.description p{
+    color: rgb(81, 80, 80);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    opacity: 0.7;
+}
+
+.buttons{
+    padding: 9px;
+    margin-bottom: 9px;
+}
+.buttons button{
+    margin: 0px 10px;
+    width: 100px;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+   cursor: pointer;
+    outline: none;
+    /* display: inline-block; */
+
+}
+.buttons .buy{
+    background-color: #E9A178;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.buttons .view{
+    background-color: transparent;
+    font-weight: bolder;
+    font-size: 17px;
+    border: 1px solid #E9A178;
+}
+.buttons .view:hover{
+    background-color: #E9A178;
+    font-weight: bolder;
+    font-size: 17px;
+}
